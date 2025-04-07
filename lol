@@ -1,1 +1,1 @@
-("freebeta","dinohaxontop", "trevorsucks", "testkey")
+"freebeta", "free", "testkey", "bypass"
